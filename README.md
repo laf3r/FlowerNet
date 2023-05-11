@@ -29,7 +29,7 @@ license: gpl-2.0
 ![image](https://github.com/laf3r/FlowerNet/assets/101829424/9bcf6b4d-917f-4fd2-b59d-8820119c8ea4)
 
 Задача выполнена. Я создал модель которая имеет устойчивую защиту от переобучения и хорошую точность 87%. 
-Модель доступна для скачивания на huggingface: 
+Модель доступна для скачивания на huggingface: https://huggingface.co/Innokentiy/FlowerNet
 
 >Программа предоставляется в виде открытого исходного кода.
 
